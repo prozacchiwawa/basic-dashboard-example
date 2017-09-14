@@ -1,0 +1,6 @@
+{
+  "name": "elm-example",
+  "dependencies": {
+    "elm": "^0.18.0"
+  }
+}
